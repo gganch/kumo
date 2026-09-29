@@ -1,0 +1,21 @@
+packages/kumo-docs-astro/src/components/multi-step-form/MultiStepFormOptions.tsx
+  s_53deb31a1a729b::t_bdb8f8ee6d7918 1-484
+packages/kumo-docs-astro/src/pages/tests/multi-step-form.astro
+  s_53deb31a1a729b::t_8a9982ab49b8b4 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b631d12124f9e2252a84599ad22c1b54381713dc",
+  "prompts": {},
+  "sessions": {
+    "s_53deb31a1a729b": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_53deb31a1a729b",
+        "model": "unknown"
+      },
+      "human_author": "ganchimeg <ganchimeg@cloudflare.com>"
+    }
+  }
+}
